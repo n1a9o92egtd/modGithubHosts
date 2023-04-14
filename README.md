@@ -1,1 +1,1 @@
-# WebHostAcceleratorForHosts
+# modGithubHosts
